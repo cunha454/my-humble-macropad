@@ -541,7 +541,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../production/",
       "specctra_dsn": "",
       "step": "Macro Pad.step",
       "vrml": ""
